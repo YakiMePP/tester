@@ -1,0 +1,42 @@
+<html>
+<body>
+<table border="3">
+<caption>this is the head of the table</caption>
+<tr>
+<th colspan="3">一个有边框的表格的表头</th>
+</tr>
+<tr>
+
+  <th>姓名</th>
+  <th colspan="2">电话</th>
+</tr>
+<tr>
+<td>
+董亚会
+</td>
+<td>
+18311187380
+</td>
+<td>
+18311187381
+</td>
+
+</tr>
+
+</table>
+
+<table border="1">
+<caption>this is a header second</caption>
+<th colspan="2">this is the title </th>
+<tr>
+<th rowspan="2">name</td>
+<td>Yaki</td>
+</tr>
+<tr>
+<td>nanan</td>
+</tr>
+</table>
+
+</body>
+</html>
+

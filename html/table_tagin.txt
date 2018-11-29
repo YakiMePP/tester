@@ -1,0 +1,36 @@
+<html>
+<body>
+<table border="1">
+<tr>
+ <td>
+  <p>this is a paragraph</p>
+  <p>this is another paragraph</p>
+ </td>
+
+ <td>this unit contains a table
+  <table border="1">
+  <tr>
+   <td>A</td>
+   <td>B</td>
+  </tr>
+  <tr>
+   <td>C</td>
+   <td>D</td>
+  </tr>
+ </table>
+ </td>
+</tr>
+<tr>
+  <td>this unit cotains a list
+    <ul>
+      <li>apple</li>
+      <li>pen</li>
+      <li>pinapple</li>
+    </ul>
+   
+  </td>
+  <td>HELLO</td>
+</tr>
+</table>
+</body>
+</html>
